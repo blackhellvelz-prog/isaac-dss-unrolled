@@ -2,6 +2,7 @@
 <metadata>
 	<name>Dead Sea Scrolls: Unrolled</name>
 	<directory>scrollmenu</directory>
+	<id>3822876513</id>
 	<description>[h1]Dead Sea Scrolls: Unrolled[/h1]
 Dead Sea Scrolls (DSS) is the menu many big mods use — Fiend Folio, Epiphany, IPECAC, Heaven's Call, Encyclopedia, Alt Horsemen and others. This mod unrolls it into a wide parchment scroll.
 
@@ -27,7 +28,7 @@ More from the same set: Basement Scrapbook Menu, Talents for Everyone, Peat, Isa
 Pictures of popular mods are used in the Mods menu and the DSS window — thanks to their creators and the Isaac modding community!
 
 Made with Universal Modder. Dead Sea Scrolls is made by the DSS team (Fiend Folio); this mod only redraws its menu at runtime and does not change its files. Author: blackhellvelz.</description>
-	<version>1.0</version>
+	<version>1.1</version>
 	<visibility>Public</visibility>
 	<tag id="Lua"/>
 	<tag id="Graphics"/>
