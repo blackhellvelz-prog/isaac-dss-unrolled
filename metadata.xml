@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<name>Dead Sea Scrolls: Unrolled</name>
+	<directory>scrollmenu</directory>
+	<description>[h1]Dead Sea Scrolls: Unrolled[/h1]
+Dead Sea Scrolls (DSS) is the menu many big mods use — Fiend Folio, Epiphany, IPECAC, Heaven's Call, Encyclopedia, Alt Horsemen and others. This mod unrolls it into a wide parchment scroll.
+
+[h2]What changes[/h2]
+[list]
+[*][b]A grid of hand-drawn icons with captions[/b] instead of a long text list — pages flip left and right.
+[*][b]One window for all mods[/b]: every installed mod that has a DSS menu, a Mod Config Menu section or Passive Skill Trees is a tile with the mod's Workshop picture; open any of them from one place.
+[*]Settings, changelogs and pages of every DSS mod work as before — only the look changes.
+[*]The scroll title, the tip panel and all menu text follow the game language (English or Russian). Russian letters in DSS use the Cyrillic font from Mod Translator; without it the menu stays in English.
+[/list]
+
+[h2]Requirements[/h2]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3127536138]REPENTOGON[/url]
+[*]any mod with a Dead Sea Scrolls menu (otherwise there is nothing to show)
+[/list]
+Only mods you actually have installed are shown in the window.
+
+[h2]Links[/h2]
+Source code: [url=https://github.com/blackhellvelz-prog/isaac-dss-unrolled]GitHub[/url]
+More from the same set: Basement Scrapbook Menu, Talents for Everyone, Peat, Isaac-Style, Mod Fixes &amp; Speedups, Russian Translation for Mods.
+
+Pictures of popular mods are used in the Mods menu and the DSS window — thanks to their creators and the Isaac modding community!
+
+Made with Universal Modder. Dead Sea Scrolls is made by the DSS team (Fiend Folio); this mod only redraws its menu at runtime and does not change its files. Author: blackhellvelz.</description>
+	<version>1.0</version>
+	<visibility>Public</visibility>
+	<tag id="Lua"/>
+	<tag id="Graphics"/>
+	<tag id="Tweaks"/>
+</metadata>
